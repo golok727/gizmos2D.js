@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+body {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	color: rgba(255, 255, 255, 0.87);
+	background-color: #242424;
+	height: 100vh;
+	overflow: hidden;
+	display: flex;
+}
+
+.app {
+	flex: 1;
+	background: orange;
+}
