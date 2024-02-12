@@ -9,5 +9,8 @@
 			"import": "./lib/index.js",
 			"require": "./lib/index.cjs"
 		}
+	},
+	"dependencies": {
+		"@gizmo2d/choco": "workspace:*"
 	}
 }

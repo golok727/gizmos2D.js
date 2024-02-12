@@ -14,7 +14,7 @@ body {
 	display: flex;
 }
 
-.app {
+#app {
 	flex: 1;
-	background: orange;
+	height: 100%;
 }
